@@ -1,0 +1,13 @@
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.exe
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.deps.json
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.runtimeconfig.json
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.runtimeconfig.dev.json
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.dll
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\bin\Debug\netcoreapp3.1\StaffingCompany.Application.Model.pdb
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.csprojAssemblyReference.cache
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.AssemblyInfoInputs.cache
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.AssemblyInfo.cs
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.csproj.CoreCompileInputs.cache
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.dll
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.pdb
+D:\AqoreSoftwareLtd\StaffingIndustry\StaffingCompany\StaffingCompany.Application.Model\obj\Debug\netcoreapp3.1\StaffingCompany.Application.Model.genruntimeconfig.cache
