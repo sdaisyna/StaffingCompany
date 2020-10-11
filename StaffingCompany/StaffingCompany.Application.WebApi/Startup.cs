@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using StaffingCompany.Application.Service.Organization;
+using StaffingCompany.Application.Service.Customer;
 
 namespace StaffingCompany.Application.WebApi
 {
@@ -38,7 +38,7 @@ namespace StaffingCompany.Application.WebApi
 
             services.AddControllers();
 
-            services.AddTransient<IOrganizationService, OrganizationService>();
+            services.AddTransient<ICustomerService, CustomerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
