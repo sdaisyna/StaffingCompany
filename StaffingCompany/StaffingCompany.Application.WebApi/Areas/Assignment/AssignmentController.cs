@@ -50,23 +50,7 @@ namespace StaffingCompany.Application.WebApi.Areas.Assignment
             }
         }
 
-        [HttpPost]
-        public IActionResult EditAssignment([FromBody] MvEditAssignment assignment)
-        {
-            try
-            {
-                var updated = _assignmentService.EditAssignment(assignment);
-                if (!updated)
-                {
-                    return BadRequest();
-                }
-                return Ok();
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-        }
+     
 
     }
 }

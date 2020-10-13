@@ -52,27 +52,7 @@ namespace StaffingCompany.Application.Service.Assignment
             }
         }
 
-        public bool AssignmentCompleted(MvEditAssignment assignment)
-        {
-            using (var connection = _dah.GetConnection())
-            {
-                var jsonNew = JsonConvert.SerializeObject(assignment);
-                var command = connection.CreateCommand();
-                command.CommandType = CommandType.StoredProcedure;
-                command.CommandText = "SpAssignmentUpd";
-                command.Parameters.Add("@json", SqlDbType.NChar).Value = jsonNew;
-                command.CommandTimeout = _commandTimeout;
-
-                int rows = command.ExecuteNonQuery();
-
-                if (rows > 0)
-                {
-                    return true;
-                }
-                return false;
-            }
-        }
-
+  
      
         public dynamic GetAssignmentDetail()
         {

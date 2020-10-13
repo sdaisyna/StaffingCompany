@@ -10,6 +10,5 @@ namespace StaffingCompany.Application.Service.Assignment
         dynamic GetAssignmentDetail();
 
         bool AddAssignment(MvAssignment assignment);
-        bool EditAssignment(MvEditAssignment assignment);
     }
 }

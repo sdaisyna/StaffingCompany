@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using StaffingCompany.Application.Service.Assignment;
 using StaffingCompany.Application.Service.Customer;
 using StaffingCompany.Application.Service.Employee;
 using StaffingCompany.Application.Service.Job;
@@ -43,6 +44,7 @@ namespace StaffingCompany.Application.WebApi
             services.AddTransient<ICustomerService, CustomerService>();
             services.AddTransient<IEmployeeService, EmployeeService>();
             services.AddTransient<IJobService, JobService>();
+            services.AddTransient<IAssignmentService, AssignmentService>();
 
 
 
